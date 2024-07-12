@@ -1,4 +1,4 @@
-# **Projeto Conceitual de Banco de Dados para E-Commerce**
+# **Projeto Conceitual de Banco de Dados para Ecommerce**
 Bem-vindo ao Projeto Conceitual de Banco de Dados para E-Commerce! Este repositório contém o design conceitual de um banco de dados para uma plataforma de comércio eletrônico. O banco de dados é estruturado para gerenciar produtos, clientes, pedidos, fornecedores e inventário de forma eficiente. Abaixo estão as especificações detalhadas para cada componente do banco de dados.
 
 ## **Visão Geral do Projeto**
